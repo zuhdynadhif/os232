@@ -11,3 +11,6 @@ ZCZC W01 100 L02 Classroom
 ZCZC W01 100 L11 Do first step
 ZCZC W01 100 L02 Classroom
 ZCZC W01 120 L05 Quiz related and studying
+ZCZC W02 100 L02 Classroom
+ZCZC W02 100 L02 Classroom
+ZCZC W02 100 L05 Quiz related including studying
