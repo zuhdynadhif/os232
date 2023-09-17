@@ -7,5 +7,6 @@ last-modified: 2023-09-11
 
 * [Basic LINUX Command](https://www.youtube.com/watch?v=cBokz0LTizk) --- This video is beginner friendly
 * [Log Codes, save your log!](https://osp4diss.vlsm.org/ETC/logCodes.txt) --- This is one of the integral part of OS subject
+* [Cyber Security Course: For Classes](https://www.youtube.com/watch?v=U_P23SqJaDc) --- This video should be watched to understand how security on a computer works and also part of Operating System subject
 <br>
 <hr>
