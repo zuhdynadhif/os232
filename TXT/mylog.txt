@@ -15,3 +15,6 @@ ZCZC W02 100 L02 Classroom
 ZCZC W02 100 L02 Classroom
 ZCZC W02 100 L05 Quiz related including studying
 ZCZC W02 120 L12 Assignment #W02
+ZCZC W03 200 L02 Classroom
+ZCZC W03 120 L13 Assignment #W03
+ZCZC W03 100 L06 GSGS
