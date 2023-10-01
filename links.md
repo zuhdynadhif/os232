@@ -13,5 +13,9 @@ last-modified: 2023-09-11
 ### WEEK 3
 * [How to import your backup VM](https://www.youtube.com/watch?v=iFFiENbC7PQ&pp=ygUVdmlydHVhbGJveCBpbXBvcnQgb3Zh) --- Short video that can help u to easily import your backup VMs
 * [Don't understand File System? here is the explanation for that !](https://www.freecodecamp.org/news/file-systems-architecture-explained/) --- Detailed description of the file system
+### WEEK 4
+* [AddrBidning & Linking](https://www.baeldung.com/cs/address-binding-in-operating-systems) --- Binding address
+* [Memory Allocation](https://youtu.be/PuZ_xChlInM?si=AHNGJIMlDDK_ZDSb) --- First step to understand memory allocation
+* [Logical vs Physical Adrress](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/) --- Deeper discussion about addreesing
 <br>
 <hr>
