@@ -25,3 +25,7 @@ ZCZC W05 100 L02 Classroom
 ZCZC W05 100 L15 Assignment #W05
 ZCZC W05 100 L06 GSG
 ZCZC W05 100 L02 Classroom
+ZCZC W06 100 L02 Classroom
+ZCZC W06 120 L06 GSGS
+ZCZC W06 120 L16 Assignment #W06
+ZCZC W06 70 L05 Quiz related including studying
