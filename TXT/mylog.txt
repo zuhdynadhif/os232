@@ -29,3 +29,6 @@ ZCZC W06 100 L02 Classroom
 ZCZC W06 120 L06 GSGS
 ZCZC W06 120 L16 Assignment #W06
 ZCZC W06 70 L05 Quiz related including studying
+ZCZC W07 100 L02 Classroom
+ZCZC W07 120 L06 Read Silberschatz
+ZCZC W07 180 L17 Assignment #W07

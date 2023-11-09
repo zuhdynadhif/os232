@@ -25,5 +25,9 @@ last-modified: 2023-09-11
 * [Understanding Memory Allocation in C](https://www.tutorialspoint.com/what-is-malloc-in-c-language)
 * [Fork() method on C language](https://www.geeksforgeeks.org/fork-system-call/)
 * [Backup Your Virtual Box !!](https://www.osradar.com/how-to-backup-vms-on-virtualbox/)
+### WEEK 7
+* [Understanding Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
+* [What is Race Condition](https://www.javatpoint.com/race-condition-in-operating-system)
+* [SCP Command](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)
 <br>
 <hr>
