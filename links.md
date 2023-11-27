@@ -29,5 +29,7 @@ last-modified: 2023-09-11
 * [Understanding Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
 * [What is Race Condition](https://www.javatpoint.com/race-condition-in-operating-system)
 * [SCP Command](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)
+### WEEK 8
+* [LFS: what is that ?](https://www.linuxfromscratch.org/lfs/)
 <br>
 <hr>
