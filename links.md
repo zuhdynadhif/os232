@@ -31,5 +31,7 @@ last-modified: 2023-09-11
 * [SCP Command](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)
 ### WEEK 8
 * [LFS: what is that ?](https://www.linuxfromscratch.org/lfs/)
+### WEEK 9
+*[The longest installation in this week](https://www.linuxfromscratch.org/lfs/view/12.0/chapter06/gcc-pass2.html)
 <br>
 <hr>

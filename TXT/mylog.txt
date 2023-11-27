@@ -35,3 +35,6 @@ ZCZC W07 180 L17 Assignment #W07
 ZCZC W08 100 L02 Classroom
 ZCZC W08 300 L18 Assignment #W08
 ZCZC W08 120 L06 Read Silbershcatz
+ZCZC W09 100 L02 Classroom
+ZCZC W09 300 L19 Assignment #W09
+ZCZC W09 120 L06 Read Silberschatz
