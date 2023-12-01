@@ -32,6 +32,10 @@ last-modified: 2023-09-11
 ### WEEK 8
 * [LFS: what is that ?](https://www.linuxfromscratch.org/lfs/)
 ### WEEK 9
-*[The longest installation in this week](https://www.linuxfromscratch.org/lfs/view/12.0/chapter06/gcc-pass2.html)
+* [The longest installation in this week](https://www.linuxfromscratch.org/lfs/view/12.0/chapter06/gcc-pass2.html)
+### WEEK 10
+* [LFS: take so long, how long is that ?](https://www.linuxquestions.org/questions/linux-from-scratch-13/how-long-does-linux-from-scratch-take-4175453502/)
+* [I/O hardware is OS ? check this out](https://www.geeksforgeeks.org/i-o-hardware-in-operating-system/)
+* [My lovely OS github: finally done!](https://github.com/zuhdynadhif/os232)
 <br>
 <hr>

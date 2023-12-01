@@ -38,3 +38,6 @@ ZCZC W08 120 L06 Read Silbershcatz
 ZCZC W09 100 L02 Classroom
 ZCZC W09 300 L19 Assignment #W09
 ZCZC W09 120 L06 Read Silberschatz
+ZCZC W10 720 L20 Assignment #W10
+ZCZC W10 180 L06 GSGS
+ZCZC W10 L05 Quiz related including studying
